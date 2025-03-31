@@ -19,6 +19,12 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/wagmi">
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/v/tag/wevm/wagmi.svg?sort=semver?colorA=21262d&colorB=21262d">
+      <img src="https://img.shields.io/github/v/tag/wevm/wagmi.svg?sort=semver?colorA=f6f8fa&colorB=f6f8fa" alt="Version">
+    </picture>
+  </a>  
+  <a href="https://www.npmjs.com/package/wagmi">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/npm/v/wagmi?colorA=21262d&colorB=21262d">
       <img src="https://img.shields.io/npm/v/wagmi?colorA=f6f8fa&colorB=f6f8fa" alt="Version">
     </picture>
